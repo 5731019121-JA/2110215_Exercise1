@@ -23,5 +23,11 @@ public class DailyPlanner {
 		System.out.println("--------------------------");
 		System.out.print("Enter input command :");
 	}
+	public static void viewCalendarMenu(){
+		
+	}
+	public static String getCalendarString(int month,int year){
+		
+	}
 
 }
